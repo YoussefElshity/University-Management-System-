@@ -1,0 +1,3 @@
+SystemAdmin|A01|admin|admin123|Sys Admin|sysadmin@uni.edu|high
+Faculty|f12|youssef|123456|cs|rr|rre|ww
+Student|s122|sofy|123456|youssef|sss|2025-01-01|Active
